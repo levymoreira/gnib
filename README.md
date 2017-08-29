@@ -3,7 +3,7 @@
 This is a simple program to find a GNIB appointment date using the same API of the website: [https://burghquayregistrationoffice.inis.gov.ie/](https://burghquayregistrationoffice.inis.gov.ie/).
 
 ### Configurations 
-Is necessary configure in the class MailSender.java, a email that will be used to send the email of alert.
+Is necessary to configure in the class MailSender.java, an email that will be used to send the email of alert.
 
 ### How to run
 ```
